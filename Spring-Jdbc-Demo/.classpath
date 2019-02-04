@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/JAVA/SPRING LIB&apos;S/New folder (2)/spring-beans-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/SPRING LIB&apos;S/New folder (2)/spring-context-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/SPRING LIB&apos;S/New folder (2)/spring-context-support-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/SPRING LIB&apos;S/New folder (2)/spring-core-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/SPRING LIB&apos;S/New folder (2)/spring-jdbc-4.1.4.RELEASE.jar" sourcepath="/Spring-MVC-Demo/WebContent/WEB-INF/lib/spring-jdbc-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/SPRING LIB&apos;S/New folder (2)/spring-tx-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/SPRING LIB&apos;S/New folder/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/SPRING LIB&apos;S/New folder/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/SPRING LIB&apos;S/New folder/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/SPRING LIB&apos;S/New folder (2)/spring-expression-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/SPRING LIB&apos;S/New folder (2)/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-beans-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-core-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-jdbc-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-context-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/MYSQL/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-dao-2.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-aop-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-aspects-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-beans-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-context-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-context-support-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-core-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/LIB&apos;S/SPRING/spring-jdbc-5.0.3.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
